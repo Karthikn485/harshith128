@@ -1,7 +1,9 @@
-<h1>Hey there, Welcome to my GITHUB profile.👋</h1>
-<h2>I'm <span style="color:blue">Harshith C R</span> </h2>
+<h1 align="center">Hi there <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px">, I'm Harshith</h1>
 
-<!-- <img src="https://user-images.githubusercontent.com/88575764/142670455-c19ae283-4950-4548-a3dc-26d8a9804b97.gif" /> -->
+<p align="center">
+<a align="center" href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?&font=IBM+Plex+Sans&color=5468FF&size=25&lines=Welcome+to+my+GitHub+Profile!;I'm+a+Full+stack+web+developer.;" /></a>
+</p>
+
 
 <!-- ![Night-Coding](https://user-images.githubusercontent.com/88575764/142670455-c19ae283-4950-4548-a3dc-26d8a9804b97.gif) -->
 
