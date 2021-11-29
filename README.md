@@ -28,15 +28,15 @@
 
 
 <h3 align="center">GitHub Analytics: </h3>
-<div align="center">
+<!-- <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=harshith128&count_private=true&theme=algolia" alt="harshith128's GitHub stats" />
-</div>
+</div> -->
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=harshith128&langs_count=8&theme=algolia" alt="harshith128's GitHub stats" />
 </div>
-<div align="center">
+<!-- <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=harshith128" alt="harshith128's GitHub stats" />
-</div>
+</div> -->
 
 <h3 align="center">How to reach me: 📫</h3>
 <div align="center" display="flex">
